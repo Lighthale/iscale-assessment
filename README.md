@@ -18,7 +18,7 @@ This simple application works, but with very old-style monolithic codebase, so d
 
 ## Changes Made
 - Data type on News and Comment class properties and methods
-- Dependency Injection
+- ~~Dependency Injection~~
 - NewsManager and CommentManager extends DB to inherit its dependencies
 - Parameterized SQLs
 - Some behavioral changes (esp. showing comments)
